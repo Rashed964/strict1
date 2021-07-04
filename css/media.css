@@ -1,0 +1,285 @@
+@media (min-width: 1441px) and (max-width: 2560px){
+    form input {
+        width: 50% !important;
+        margin-left: 28%;
+        font-size: 18px !important;
+    }
+    textarea {
+        width: 50%;
+        margin-left: 6%;
+        font-size: 23px !important;
+    }
+    .form-check-label {
+        margin-top: 6px;;
+        margin-left: -16%;
+        font-size: 21px;
+    }
+    .btn-submit {
+        padding: 12px 64px;;
+        bottom: 9%;
+        left: 57%;
+        font-size: 20px;
+    }
+    .checkbox-part {
+        bottom: 79px;
+        left: -264px;
+    }
+    footer ul {
+        margin-right: -103%;
+    }
+    footer li {
+        margin-left: 13px;
+        font-size: 22px;
+        padding: 7px 13px;
+    }
+    footer h4 {
+        font-size: 23px;
+    }
+}
+@media (min-width: 1025px) and (max-width: 1440px){
+    .btn-submit {
+        padding: 10px 54px;
+        bottom: 11%;
+        left: 58%;
+    }
+    footer ul {
+        margin-right: -39% !important;
+    }
+}
+@media (min-width: 769px) and (max-width: 1024px){
+    .stay {
+        min-height: 76VH;
+    }
+    form input {
+        width: 52% !important;
+        margin-left: 25%;}
+        textarea {
+            width: 52%;
+            margin-left: 2%;}
+            .form-check-label {
+                margin-left: 6%;
+            }
+            .checkbox-part {
+                bottom: 128px;
+                left: -106px;
+            }
+            .btn-submit {
+                bottom: 9%;
+                left: 42%;
+            }
+            footer ul {
+                margin-right: -39% !important;
+            }
+}
+@media (min-width: 576px) and (max-width: 768px){
+    .strict_content h1 {
+        font-size: 93px;}
+        .strict_content:hover span {
+            width: 55%;
+        }
+        .description h2 {
+            font-size: 20px;
+        }
+        .stay {
+            min-height: 76VH;
+        }
+        form input {
+            width: 52% !important;
+            margin-left: 25%;}
+            textarea {
+                width: 52%;
+                margin-left: 2%;}
+                .form-check-label {
+                    margin-left: 6%;
+                }
+                .checkbox-part {
+                    bottom: 128px;
+                    left: -106px;
+                }
+                .btn-submit {
+                    bottom: 9%;
+                    left: 42%;
+                }
+                footer ul {
+                    margin-right: -39% !important;
+                }
+            }
+@media (min-width: 0px) and (max-width: 575px){
+    /* .strict_content {
+        min-width: 67vh;} */
+        .strict_content h1 {
+            font-size: 66px;
+        }
+        .strict_content:hover span{
+            width: 52%;
+        }
+        .design_description {
+            width: 102%;
+        }
+        .stay {
+            min-height: 65VH;
+        }
+        form input {
+            width: 69% !important;
+            margin-left: 17%;}
+            textarea {
+                height: 124px;
+                width: 69%;
+                margin-left: 4%;
+            }
+            .form-check-label {
+                margin-right: 8%;
+                margin-top: 6px;
+                margin-left: -22%;
+                font-size: 18px;
+            }
+            .checkbox-part {
+                bottom: 102px;
+                left: -165px;
+            }
+            .btn-submit {
+                padding: 10px 44px;
+                bottom: 16%;
+                left: 62%;
+            }
+            footer h4 {
+                margin-top: 17px;
+                font-size: 17px;
+            }
+            footer ul {
+                margin-right: 0 !important;
+                margin-top: -38px;
+            }
+            footer li {
+                margin-left: 5px;
+                font-size: 17px;
+                padding: 7px 17px;
+                width: 48px;}
+        }
+        @media (min-width: 0px) and (max-width: 480px){
+            .btn-submit {
+                bottom: 8%;
+                left: 36%;
+            }
+            .checkbox-part {
+                bottom: 103px;
+                left: -102px;
+            }
+            .form-check-label {
+                margin-top: 7px;
+                margin-left: 0%;
+        }
+        .features h1 {
+          
+            font-size: 27px;
+        }
+    }
+        @media (min-width: 0px) and (max-width: 475px){
+            .strict_content:hover span{
+                width: 60%;
+            }
+            .features h1 {
+                font-size: 26px;
+            }
+            .form-check-label {
+                margin-top: 7px;
+                margin-left: -26%;
+                font-size: 15px;
+            }
+            .checkbox-part {
+                bottom: 105px;
+                left: -140px;
+            }
+            .btn-submit {
+                padding: 7px 36px;
+                bottom: 17%;
+                left: 62%;
+            }
+        }
+        @media (min-width: 0px) and (max-width: 425px){
+            .strict_content h1 {
+                font-size: 53px;
+            }
+            .design_description h2 {
+                font-size: 33px;
+            }
+            .features h1 {
+                font-size: 22px;
+            }
+            .btn-submit {
+                bottom: 10%;
+                left: 38%;
+            }
+            .form-check-label {
+                margin-top: 3px;
+                margin-left: -1%;
+            }
+            .checkbox-part {
+                bottom: 108px;
+                left: -90px;
+            }
+            footer h4 {
+                margin-top: 2px;
+                font-size: 22px;
+                margin-left: 91px;
+                margin-bottom: 22px;
+            }
+            footer ul {
+                margin-top: -5px;
+                justify-content: center;
+            }
+        }
+            @media (min-width: 0px) and (max-width: 375px){
+                .strict_content h1 {
+                    font-size: 53px;
+                }
+                .strict_content p {
+                    font-size: 16px;
+                }
+                .design_description h2 {
+                    font-size: 26px;
+                }
+                .features h1 {
+                    font-size: 19px;
+                }
+                .btn-submit {
+                    bottom: 8%;
+                    left: 34%;
+                }
+                .checkbox-part {
+                    bottom: 105px;
+                    left: -87px;
+                }
+                .form-check-label {
+                    margin-top: 7px;
+                    margin-left: 0%;
+                }
+                footer h4 {
+                    margin-top: 2px;
+                    font-size: 21px;
+                    margin-left: 74px;
+                    margin-bottom: 21px;
+                }
+                footer ul {
+                    margin-top: -5px;
+                    justify-content: center;
+                    margin-right: -2% !important;
+                }
+            }
+                @media (min-width: 0px) and (max-width: 320px){
+                    .strict_content h1 {
+                        font-size: 44px;
+                    }
+                    .design_description h2 {
+                        font-size: 22px;
+                    }
+                    .description h2 {
+                        font-size: 20px;
+                    }
+                    footer h4 {
+                        margin-left: 37px;;
+                    }
+            
+          
+        }
+        
